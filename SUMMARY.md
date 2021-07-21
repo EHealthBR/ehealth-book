@@ -25,3 +25,7 @@
 
 * [Untitled](mercado-de-sistemas-de-saude/untitled.md)
 
+## Equipamentos médicos
+
+* [Untitled](equipamentos-medicos/untitled.md)
+
