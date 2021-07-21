@@ -50,6 +50,7 @@
 * [HIPAA](seguranca-da-informacao/hipaa.md)
 * [LGPD](seguranca-da-informacao/lgpd.md)
 * [Conceitos de anonimização](seguranca-da-informacao/conceitos-de-anonimizacao.md)
+* [Padrões de anonimização](seguranca-da-informacao/padroes-de-anonimizacao.md)
 
 ## Segurança do paciente
 

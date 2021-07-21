@@ -1,0 +1,2 @@
+# Padrões de anonimização
+
