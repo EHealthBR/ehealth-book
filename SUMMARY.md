@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Introdução](README.md)
+* [Motivação deste livro open source](motivacao-deste-livro-open-source.md)
+
+## Origens das tecnologias
+
+* [Anos 80´s até 2000](origens-das-tecnologias/anos-80-s-ate-2000.md)
 
 ## Sistemas clínicos
 
