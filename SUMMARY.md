@@ -18,4 +18,6 @@
 ## Conceitos de imagens
 
 * [Imagens digitais](conceitos-de-imagens/untitled.md)
+* [Imagens médicas](conceitos-de-imagens/imagens-medicas.md)
+* [Images Dicom](conceitos-de-imagens/images-dicom.md)
 
