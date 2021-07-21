@@ -3,7 +3,7 @@
 * [Introdução](README.md)
 * [Motivação deste livro open source](motivacao-deste-livro-open-source.md)
 
-## Origens das tecnologias
+## história das tecnologias clinicas e de imagens <a id="origens-das-tecnologias"></a>
 
 * [Anos 80´s até 2000](origens-das-tecnologias/anos-80-s-ate-2000.md)
 * [Anos 2000 a 2021](origens-das-tecnologias/anos-2000-a-2021.md)
@@ -44,4 +44,10 @@
 * [DICOM](protocolos-medicos/dicom.md)
 * [HL7](protocolos-medicos/hl7.md)
 * [FHIR](protocolos-medicos/fhir.md)
+
+## Segurança da Informação
+
+* [HIPAA](seguranca-da-informacao/hipaa.md)
+* [LGPD](seguranca-da-informacao/lgpd.md)
+* [Conceitos de anonimização](seguranca-da-informacao/conceitos-de-anonimizacao.md)
 
