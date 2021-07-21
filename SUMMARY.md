@@ -17,5 +17,5 @@
 
 ## Conceitos de imagens
 
-* [Untitled](conceitos-de-imagens/untitled.md)
+* [Imagens digitais](conceitos-de-imagens/untitled.md)
 
