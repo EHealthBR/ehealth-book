@@ -12,6 +12,7 @@
 
 ## Sistemas de imagens
 
+* [Sistemas de reconstrução pós processamento](sistemas-de-imagens/sistemas-de-reconstrucao-pos-processamento.md)
 * [PACS](sistemas-de-imagens/untitled.md)
 * [VNA](sistemas-de-imagens/vna.md)
 
