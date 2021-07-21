@@ -51,3 +51,8 @@
 * [LGPD](seguranca-da-informacao/lgpd.md)
 * [Conceitos de anonimização](seguranca-da-informacao/conceitos-de-anonimizacao.md)
 
+## Segurança do paciente
+
+* [Dose de radiação](seguranca-do-paciente/dose-de-radiacao.md)
+* [Protocolos de segurança](seguranca-do-paciente/protocolos-de-seguranca.md)
+
