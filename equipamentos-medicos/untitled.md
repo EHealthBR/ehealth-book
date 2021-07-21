@@ -1,2 +1,2 @@
-# Untitled
+# Equipamentos fora da radiologia
 

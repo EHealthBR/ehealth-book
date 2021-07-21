@@ -6,6 +6,7 @@
 ## Origens das tecnologias
 
 * [Anos 80´s até 2000](origens-das-tecnologias/anos-80-s-ate-2000.md)
+* [Anos 2000 a 2021](origens-das-tecnologias/anos-2000-a-2021.md)
 
 ## Sistemas clínicos
 
@@ -26,12 +27,21 @@
 * [Imagens digitais](conceitos-de-imagens/untitled.md)
 * [Imagens médicas](conceitos-de-imagens/imagens-medicas.md)
 * [Images Dicom](conceitos-de-imagens/images-dicom.md)
+* [Imagens impressão 3D](conceitos-de-imagens/imagens-impressao-3d.md)
 
 ## Mercado de sistemas de saúde
 
-* [Untitled](mercado-de-sistemas-de-saude/untitled.md)
+* [Mercado mundial](mercado-de-sistemas-de-saude/mercado-mundial.md)
+* [Mercado brasileiro](mercado-de-sistemas-de-saude/untitled.md)
 
 ## Equipamentos médicos
 
-* [Untitled](equipamentos-medicos/untitled.md)
+* [Equipamentos de radiologia](equipamentos-medicos/equipamentos-de-radiologia.md)
+* [Equipamentos fora da radiologia](equipamentos-medicos/untitled.md)
+
+## Protocolos médicos
+
+* [DICOM](protocolos-medicos/dicom.md)
+* [HL7](protocolos-medicos/hl7.md)
+* [FHIR](protocolos-medicos/fhir.md)
 
