@@ -7,12 +7,12 @@
 * [EHR](sistemas-clinicos/ehr.md)
 * [HIS](sistemas-clinicos/his.md)
 * [RIS](sistemas-clinicos/ris.md)
-* [Untitled](sistemas-clinicos/untitled.md)
+* [CIS](sistemas-clinicos/untitled.md)
 * [LIS](sistemas-clinicos/lis.md)
 
 ## Sistemas de imagens
 
-* [Untitled](sistemas-de-imagens/untitled.md)
+* [PACS](sistemas-de-imagens/untitled.md)
 
 ## Conceitos de imagens
 
