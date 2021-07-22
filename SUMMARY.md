@@ -24,6 +24,10 @@
 * [Sistemas de reconstrução pós processamento](sistemas-de-imagens/sistemas-de-reconstrucao-pos-processamento.md)
 * [Regulamentações](sistemas-de-imagens/regulamentacoes.md)
 
+## Documentação e entrega de resultados de exames
+
+* [Meios físicos e digitais](documentacao-e-entrega-de-resultados-de-exames/meios-fisicos-e-digitais.md)
+
 ## Conceitos de imagens
 
 * [Imagens digitais](conceitos-de-imagens/untitled.md)
