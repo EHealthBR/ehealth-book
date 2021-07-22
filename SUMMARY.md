@@ -3,7 +3,7 @@
 * [Introdução](README.md)
 * [Motivação livro open source](motivacao-deste-livro-open-source.md)
 
-## história das tecnologias clinicas e de imagens <a id="origens-das-tecnologias"></a>
+## história das tecnologias clinica e de imagens <a id="origens-das-tecnologias"></a>
 
 * [Anos 80´s até 2000](origens-das-tecnologias/anos-80-s-ate-2000.md)
 * [Anos 2000 a 2021](origens-das-tecnologias/anos-2000-a-2021.md)
@@ -93,4 +93,12 @@
 ## Tendências e inovação
 
 * [Tecnologias futuras](tendencias-e-inovacao/tecnologias-futuras.md)
+
+## Resumo de congressos
+
+* [Congressos relevantes 2021 / 2022](resumo-de-congressos/congressos-relevantes-2021-2022.md)
+
+## Bibliografia
+
+* [Padrão bibliográfico](bibliografia/padrao-bibliografico.md)
 
