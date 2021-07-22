@@ -64,7 +64,7 @@
 
 ## Telemedicina e Teleradiologia
 
-* [Regulamentações](telemedicina-e-teleradiologia/regulamentacoes.md)
 * [Conceitos de telemedicina](telemedicina-e-teleradiologia/conceitos-de-telemedicina.md)
 * [Conceitos de teleradiologia](telemedicina-e-teleradiologia/conceitos-de-teleradiologia.md)
+* [Regulamentações](telemedicina-e-teleradiologia/regulamentacoes.md)
 
