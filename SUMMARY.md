@@ -11,6 +11,7 @@
 ## Sistemas clínicos
 
 * [Workflow ou jornada do paciente](sistemas-clinicos/workflow-ou-jornada-do-paciente.md)
+* [Atores envolvidos](sistemas-clinicos/atores-envolvidos.md)
 * [EHR](sistemas-clinicos/ehr.md)
 * [HIS](sistemas-clinicos/his.md)
 * [RIS](sistemas-clinicos/ris.md)
@@ -19,6 +20,7 @@
 
 ## Sistemas de imagens
 
+* [Atores envolvidos](sistemas-de-imagens/atores-envolvidos.md)
 * [PACS](sistemas-de-imagens/untitled.md)
 * [VNA](sistemas-de-imagens/vna.md)
 * [Sistemas de reconstrução pós processamento](sistemas-de-imagens/sistemas-de-reconstrucao-pos-processamento.md)
