@@ -40,7 +40,7 @@
 ## Mercado de sistemas de saúde
 
 * [Mercado mundial](mercado-de-sistemas-de-saude/mercado-mundial.md)
-* [Mercado brasileiro](mercado-de-sistemas-de-saude/untitled.md)
+* [Mercado local](mercado-de-sistemas-de-saude/untitled.md)
 
 ## Equipamentos médicos
 
