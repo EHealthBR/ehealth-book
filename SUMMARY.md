@@ -90,3 +90,7 @@
 * [On premises](infraestrutura/on-premises.md)
 * [Serviços de imagens na nuvem](infraestrutura/servicos-de-imagens-na-nuvem.md)
 
+## Tendências e inovação
+
+* [Tecnologias futuras](tendencias-e-inovacao/tecnologias-futuras.md)
+
