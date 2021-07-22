@@ -1,2 +1,2 @@
-# Open source anonimização
+# Codificando para a anonimização
 

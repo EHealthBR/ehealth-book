@@ -60,7 +60,7 @@
 * [LGPD](seguranca-da-informacao/lgpd.md)
 * [Conceitos de anonimização](seguranca-da-informacao/conceitos-de-anonimizacao.md)
 * [Padrões de anonimização](seguranca-da-informacao/padroes-de-anonimizacao.md)
-* [Open source anonimização](seguranca-da-informacao/open-source-anonimizacao.md)
+* [Codificando para a anonimização](seguranca-da-informacao/open-source-anonimizacao.md)
 
 ## Segurança do paciente
 
@@ -96,6 +96,13 @@
 * [On premises](infraestrutura/on-premises.md)
 * [Serviços de imagens na nuvem](infraestrutura/servicos-de-imagens-na-nuvem.md)
 
+## Sistemas open source
+
+* [Discussão](sistemas-open-source/untitled.md)
+* [Casos de uso](sistemas-open-source/untitled-3.md)
+* [Principais open source área da saúde](sistemas-open-source/untitled-2.md)
+* [Primeiros passos](sistemas-open-source/untitled-1.md)
+
 ## Tendências e inovação
 
 * [Tecnologias futuras](tendencias-e-inovacao/tecnologias-futuras.md)
@@ -107,11 +114,4 @@
 ## Bibliografia
 
 * [Padrão bibliográfico](bibliografia/padrao-bibliografico.md)
-
-## Sistemas open source
-
-* [Discussão](sistemas-open-source/untitled.md)
-* [Casos de uso](sistemas-open-source/untitled-3.md)
-* [Principais open source área da saúde](sistemas-open-source/untitled-2.md)
-* [Primeiros passos](sistemas-open-source/untitled-1.md)
 
