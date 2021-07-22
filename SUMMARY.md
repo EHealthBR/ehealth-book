@@ -77,7 +77,7 @@
 ## Ambientes produtivos <a id="projetos-e-producao"></a>
 
 * [Monitoração ativa e passiva](projetos-e-producao/untitled.md)
-* [Continuidade de operação](projetos-e-producao/continuidade-de-operacao.md)
+* [Continuidade de operação \(Resiliência\)](projetos-e-producao/continuidade-de-operacao.md)
 * [Desenhos de arquitetura](projetos-e-producao/desenhos-de-arquitetura.md)
 * [Contingências](projetos-e-producao/contingencias.md)
 

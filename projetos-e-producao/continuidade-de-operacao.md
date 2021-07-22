@@ -1,2 +1,2 @@
-# Continuidade de operação
+# Continuidade de operação \(Resiliência\)
 
