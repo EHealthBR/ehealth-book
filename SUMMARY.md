@@ -10,6 +10,7 @@
 
 ## Sistemas clínicos
 
+* [Workflow ou jornada do paciente](sistemas-clinicos/workflow-ou-jornada-do-paciente.md)
 * [EHR](sistemas-clinicos/ehr.md)
 * [HIS](sistemas-clinicos/his.md)
 * [RIS](sistemas-clinicos/ris.md)
