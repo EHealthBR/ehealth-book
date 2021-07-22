@@ -20,6 +20,7 @@
 
 * [PACS](sistemas-de-imagens/untitled.md)
 * [VNA](sistemas-de-imagens/vna.md)
+* [Regulamentações](sistemas-de-imagens/regulamentacoes.md)
 * [Sistemas de reconstrução pós processamento](sistemas-de-imagens/sistemas-de-reconstrucao-pos-processamento.md)
 
 ## Conceitos de imagens
@@ -38,6 +39,8 @@
 
 * [Equipamentos de radiologia](equipamentos-medicos/equipamentos-de-radiologia.md)
 * [Equipamentos fora da radiologia](equipamentos-medicos/untitled.md)
+* [Monitores de vídeo](equipamentos-medicos/monitores-de-video.md)
+* [Regulamentações](equipamentos-medicos/regulamentacoes.md)
 
 ## Protocolos médicos
 
@@ -51,9 +54,17 @@
 * [LGPD](seguranca-da-informacao/lgpd.md)
 * [Conceitos de anonimização](seguranca-da-informacao/conceitos-de-anonimizacao.md)
 * [Padrões de anonimização](seguranca-da-informacao/padroes-de-anonimizacao.md)
+* [Open source anonimização](seguranca-da-informacao/open-source-anonimizacao.md)
 
 ## Segurança do paciente
 
-* [Dose de radiação](seguranca-do-paciente/dose-de-radiacao.md)
 * [Protocolos de segurança](seguranca-do-paciente/protocolos-de-seguranca.md)
+* [Dose de radiação](seguranca-do-paciente/dose-de-radiacao.md)
+* [Regulamentações](seguranca-do-paciente/regulamentacoes.md)
+
+## Telemedicina e Teleradiologia
+
+* [Regulamentações](telemedicina-e-teleradiologia/regulamentacoes.md)
+* [Conceitos de telemedicina](telemedicina-e-teleradiologia/conceitos-de-telemedicina.md)
+* [Conceitos de teleradiologia](telemedicina-e-teleradiologia/conceitos-de-teleradiologia.md)
 
