@@ -1,2 +1,2 @@
-# Desenhos de arquitetura
+# Desenhos de arquitetura de TI
 
