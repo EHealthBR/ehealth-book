@@ -112,6 +112,7 @@
 
 ## Tendências e inovação
 
+* [Controle de ativos por RFID](tendencias-e-inovacao/controle-de-ativos-por-rfid.md)
 * [Tecnologias futuras](tendencias-e-inovacao/tecnologias-futuras.md)
 
 ## Resumo de congressos
