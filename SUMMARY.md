@@ -10,6 +10,7 @@
 
 ## Rede pública e privada de saúde
 
+* [Redes municipais](rede-publica-e-privada-de-saude/redes-municipais.md)
 * [Redes estaduais](rede-publica-e-privada-de-saude/redes-estaduais.md)
 * [Rede SUS](rede-publica-e-privada-de-saude/untitled.md)
 
