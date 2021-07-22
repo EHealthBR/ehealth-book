@@ -8,6 +8,11 @@
 * [Anos 80´s até 2000](origens-das-tecnologias/anos-80-s-ate-2000.md)
 * [Anos 2000 a 2021](origens-das-tecnologias/anos-2000-a-2021.md)
 
+## Rede pública e privada de saúde
+
+* [Redes estaduais](rede-publica-e-privada-de-saude/redes-estaduais.md)
+* [Rede SUS](rede-publica-e-privada-de-saude/untitled.md)
+
 ## Sistemas clínicos
 
 * [Workflow ou jornada do paciente](sistemas-clinicos/workflow-ou-jornada-do-paciente.md)
@@ -122,8 +127,4 @@
 ## Bibliografia
 
 * [Padrão bibliográfico](bibliografia/padrao-bibliografico.md)
-
-## Rede pública e privada de saúde
-
-* [Untitled](rede-publica-e-privada-de-saude/untitled.md)
 
