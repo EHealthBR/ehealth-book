@@ -10,10 +10,11 @@
 
 ## Rede pública e privada de saúde
 
+* [Redes privadas](rede-publica-e-privada-de-saude/redes-privadas.md)
+* [Conceitos de atenção primária, secundária, etc](rede-publica-e-privada-de-saude/conceitos-de-atencao-primaria-secundaria-etc.md)
 * [Redes municipais](rede-publica-e-privada-de-saude/redes-municipais.md)
 * [Redes estaduais](rede-publica-e-privada-de-saude/redes-estaduais.md)
 * [Rede SUS](rede-publica-e-privada-de-saude/untitled.md)
-* [Conceitos de atenção primária, secundária, etc](rede-publica-e-privada-de-saude/conceitos-de-atencao-primaria-secundaria-etc.md)
 
 ## Sistemas clínicos
 
