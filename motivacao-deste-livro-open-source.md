@@ -1,2 +1,2 @@
-# Motivação deste livro open source
+# Motivação livro open source
 
