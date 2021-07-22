@@ -85,3 +85,8 @@
 * [Startup de imagens médicas](startups-de-imagens/startup-de-imagens-medicas.md)
 * [Startup de sistemas de saúde](startups-de-imagens/startup-de-sistemas-de-saude.md)
 
+## Infraestrutura
+
+* [On premises](infraestrutura/on-premises.md)
+* [Serviços de imagens na nuvem](infraestrutura/servicos-de-imagens-na-nuvem.md)
+
