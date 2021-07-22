@@ -105,6 +105,11 @@
 * [Principais open source área da saúde](sistemas-open-source/untitled-2.md)
 * [Primeiros passos](sistemas-open-source/untitled-1.md)
 
+## Analytics, BI e datalake com dados
+
+* [Datalake de imagens DICOM](analytics-bi-e-datalake-com-dados/datalake-de-imagens-dicom.md)
+* [Bi de radiologia](analytics-bi-e-datalake-com-dados/bi-de-radiologia.md)
+
 ## Tendências e inovação
 
 * [Tecnologias futuras](tendencias-e-inovacao/tecnologias-futuras.md)
