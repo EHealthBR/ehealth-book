@@ -10,7 +10,7 @@ Os hospitais como modelos empresariais adotam ferramentas que trazem um grande n
 
 **Hospitais públicos**
 
-Descrever a rede federal, estadual e municipal como funciona, regulação, micro regiões, macro regiões, hospitais modelo, hospitais referencia, hospitais regionais, etc
+
 
 
 
