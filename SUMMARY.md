@@ -76,7 +76,7 @@
 * [Conceitos de teleradiologia](telemedicina-e-teleradiologia/conceitos-de-teleradiologia.md)
 * [Regulamentações](telemedicina-e-teleradiologia/regulamentacoes.md)
 
-## Ambientes produtivos <a id="projetos-e-producao"></a>
+## Ambientes produtivos de TI <a id="projetos-e-producao"></a>
 
 * [Monitoração ativa e passiva](projetos-e-producao/untitled.md)
 * [Continuidade de operação \(Resiliência\)](projetos-e-producao/continuidade-de-operacao.md)
