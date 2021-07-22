@@ -110,5 +110,8 @@
 
 ## Sistemas open source
 
-* [Untitled](sistemas-open-source/untitled.md)
+* [Discussão](sistemas-open-source/untitled.md)
+* [Untitled](sistemas-open-source/untitled-3.md)
+* [Untitled](sistemas-open-source/untitled-2.md)
+* [Untitled](sistemas-open-source/untitled-1.md)
 
