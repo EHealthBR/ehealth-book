@@ -40,6 +40,7 @@
 * [Equipamentos de radiologia](equipamentos-medicos/equipamentos-de-radiologia.md)
 * [Equipamentos fora da radiologia](equipamentos-medicos/untitled.md)
 * [Monitores de vídeo](equipamentos-medicos/monitores-de-video.md)
+* [Engenharia clinica e físicos](equipamentos-medicos/engenharia-clinica-e-fisicos.md)
 * [Regulamentações](equipamentos-medicos/regulamentacoes.md)
 
 ## Protocolos médicos
