@@ -1,0 +1,2 @@
+# Continuidade de operação
+

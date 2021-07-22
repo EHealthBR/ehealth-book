@@ -71,4 +71,12 @@
 ## Ambientes produtivos <a id="projetos-e-producao"></a>
 
 * [Monitoração](projetos-e-producao/untitled.md)
+* [Continuidade de operação](projetos-e-producao/continuidade-de-operacao.md)
+* [Desenhos de arquitetura](projetos-e-producao/desenhos-de-arquitetura.md)
+* [Contingências](projetos-e-producao/contingencias.md)
+
+## Ambientes de pesquisa
+
+* [Inteligência artificial](ambientes-de-pesquisa/inteligencia-artificial.md)
+* [Arquiteturas básicas](ambientes-de-pesquisa/arquiteturas-basicas.md)
 
