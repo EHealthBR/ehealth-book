@@ -36,7 +36,11 @@
 
 ## Documentação e entrega de resultados de exames
 
-* [Meios físicos e digitais](documentacao-e-entrega-de-resultados-de-exames/meios-fisicos-e-digitais.md)
+* [Filmes revelados](documentacao-e-entrega-de-resultados-de-exames/filmes-revelados.md)
+* [Filmes impressos](documentacao-e-entrega-de-resultados-de-exames/filmes-impressos.md)
+* [cd´s - Robôs de gravação](documentacao-e-entrega-de-resultados-de-exames/cd-s-robos-de-gravacao.md)
+* [Sites de resultados / APP´s](documentacao-e-entrega-de-resultados-de-exames/meios-fisicos-e-digitais.md)
+* [Impressão em papel](documentacao-e-entrega-de-resultados-de-exames/impressao-em-papel.md)
 
 ## Conceitos de imagens
 
