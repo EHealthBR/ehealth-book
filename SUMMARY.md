@@ -112,6 +112,6 @@
 
 * [Discussão](sistemas-open-source/untitled.md)
 * [Casos de uso](sistemas-open-source/untitled-3.md)
-* [Untitled](sistemas-open-source/untitled-2.md)
-* [Untitled](sistemas-open-source/untitled-1.md)
+* [Principais open source área da saúde](sistemas-open-source/untitled-2.md)
+* [Primeiros passos](sistemas-open-source/untitled-1.md)
 
