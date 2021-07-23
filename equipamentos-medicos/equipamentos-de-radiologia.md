@@ -8,9 +8,7 @@
 
 **Utilização**
 
-{% hint style="info" %}
 
-{% endhint %}
 
 ### **Equipamentos de raio x**
 
