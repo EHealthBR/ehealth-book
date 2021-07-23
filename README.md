@@ -11,6 +11,9 @@ Esse é um projeto criado por brasileiros para reunir e compartilhar conheciment
 * Discussões: [https://github.com/EHealthBR/ehealth-book/discussions](https://github.com/EHealthBR/ehealth-book/discussions)
 * Também estamos no WhatsApp: [https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3](https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3)
 
+### Status
+[![Publishing](https://github.com/EHealthBR/ehealth-book/actions/workflows/gitbook.yml/badge.svg)](https://github.com/EHealthBR/ehealth-book/actions/workflows/gitbook.yml)
+
 ## Hospitais e clinicas particulares
 
 Os hospitais, clínicas e centros de diagnósticos tem hoje uma administração profissional, são conduzidas como empresas normais, que como qualquer outra primam pela qualidade, redução de custos, mais agilidade no atendimento aos clientes, diferenciais em relação aos seus concorrentes, melhoria dos seus produtos etc.
