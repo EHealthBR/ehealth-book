@@ -73,6 +73,7 @@
 
 * [SNOMED CT](bases-de-terminologia-classificacao-e-ontologia/snomed-ct.md)
 * [LOINC](bases-de-terminologia-classificacao-e-ontologia/untitled.md)
+* [CID](bases-de-terminologia-classificacao-e-ontologia/cid.md)
 * [RADLEX](bases-de-terminologia-classificacao-e-ontologia/untitled-1.md)
 
 ## Segurança da Informação
