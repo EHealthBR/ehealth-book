@@ -72,7 +72,8 @@
 ## Bases de terminologia, classificação e ontologia
 
 * [SNOMED CT](bases-de-terminologia-classificacao-e-ontologia/snomed-ct.md)
-* [Untitled](bases-de-terminologia-classificacao-e-ontologia/untitled.md)
+* [LOINC](bases-de-terminologia-classificacao-e-ontologia/untitled.md)
+* [Untitled](bases-de-terminologia-classificacao-e-ontologia/untitled-1.md)
 
 ## Segurança da Informação
 
