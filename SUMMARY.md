@@ -68,6 +68,7 @@
 * [DICOM](protocolos-medicos/dicom.md)
 * [HL7](protocolos-medicos/hl7.md)
 * [FHIR](protocolos-medicos/fhir.md)
+* [Interoperabilidade](protocolos-medicos/interoperabilidade.md)
 
 ## Bases de terminologia, classificação e ontologia
 
