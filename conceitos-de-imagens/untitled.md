@@ -4,13 +4,19 @@
 
 
 
-Imagem digital é uma representação em duas dimensões de uma imagem como um conjunto finito de valores digitais, chamados pixel.  Estas imagens são chamadas de duas dimensões 2D.
+Imagem digital é uma representação em duas dimensões de uma imagem como um conjunto finito de valores digitais, chamados de ****_pixel_.  Estas imagens são chamadas de duas dimensões 2D.
 
- Pixel é o menor ponto que forma uma imagem digital, sendo que o conjunto de milhares de pixels formam a imagem inteira.
+ _Pixel_ é o menor ponto que forma uma imagem digital, sendo que o conjunto de milhares de _pixels_ formam a imagem inteira.
 
 ![](../.gitbook/assets/imagem3.jpg)
 
+**Resolução da imagem digital**
+
+A resolução de uma imagem é a contagem de quantos _pixels_ totais ela contem, este calculo é feito multiplicando o numero de _pixel_ verticais pelo numero de _pixel_ horizontais.
+
 ![](../.gitbook/assets/2021-07-23-12_03_11-projeto_livro_pacs_ris_2.6.docx-modo-de-compatibilidade-word.jpg)
+
+\*\*\*\*
 
 **Imagem na forma digital**
 
@@ -20,7 +26,7 @@ Em computação gráfica pode-se classificar uma imagem, em relação à sua ori
 
 **Vetorial**
 
-A forma vetorial é normalmente utilizada por programas de desenho e os objetos que formam a imagem são representados na forma de lista indicando as figura, suas dimensões e posicionamento.
+A forma vetorial é normalmente utilizada por programas de desenho e os objetos que formam a imagem são representados na forma de lista indicando suas dimensões e posicionamento.
 
 **Bitmap \(mapa de bits\)**
 
@@ -31,4 +37,10 @@ Os pontos são amostrados e representados bit a bit. Um bitmap pode ser [monocro
 ![bitmap](../.gitbook/assets/imagem1.png)
 
 ![vetorial](../.gitbook/assets/imagem2.png)
+
+**Conversão de imagens analógicas para digitais**
+
+\*\*\*\*
+
+\*\*\*\*
 
