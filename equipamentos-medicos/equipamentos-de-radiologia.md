@@ -54,6 +54,10 @@
 
 **Utilização**
 
+{% hint style="warning" %}
+**Equipamento emite radiação ionizante**
+{% endhint %}
+
 ## **Medicina nuclear**
 
 **Principio físico de funcionamento**
@@ -63,7 +67,7 @@
 **Utilização**
 
 {% hint style="warning" %}
-**Equipamento gera radiação ionizante**
+**Equipamento emite radiação ionizante**
 {% endhint %}
 
 ## **PET-CT**
