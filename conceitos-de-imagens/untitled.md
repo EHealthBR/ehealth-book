@@ -12,7 +12,7 @@ Imagem digital é uma representação em duas dimensões de uma imagem como um c
 
 **Resolução da imagem digital**
 
-A resolução de uma imagem é a contagem de quantos _pixels_ totais ela contem, este calculo é feito multiplicando o numero de _pixel_ verticais pelo numero de _pixel_ horizontais.
+A resolução de uma imagem é a somatória de todos seus _pixel_, este calculo é feito multiplicando o numero de _pixel_ verticais pelo numero de _pixel_ horizontais.
 
 ![](../.gitbook/assets/2021-07-23-12_03_11-projeto_livro_pacs_ris_2.6.docx-modo-de-compatibilidade-word.jpg)
 
