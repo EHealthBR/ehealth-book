@@ -42,7 +42,7 @@
 
 **Utilização**
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 **Equipamento gera forte campo magnético e gera risco para quem tem marca passo.**
 {% endhint %}
 
@@ -61,6 +61,10 @@
 **Tipo de imagens geradas**
 
 **Utilização**
+
+{% hint style="warning" %}
+**Equipamento gera radiação ionizante**
+{% endhint %}
 
 ## **PET-CT**
 
