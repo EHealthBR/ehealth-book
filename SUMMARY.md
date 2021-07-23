@@ -69,6 +69,11 @@
 * [HL7](protocolos-medicos/hl7.md)
 * [FHIR](protocolos-medicos/fhir.md)
 
+## Bases de terminologia, classificação e ontologia
+
+* [SNOMED CT](bases-de-terminologia-classificacao-e-ontologia/snomed-ct.md)
+* [Untitled](bases-de-terminologia-classificacao-e-ontologia/untitled.md)
+
 ## Segurança da Informação
 
 * [HIPAA](seguranca-da-informacao/hipaa.md)
