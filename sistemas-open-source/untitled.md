@@ -1,2 +1,2 @@
-# Discussão prós e contras
+# Discussão: prós e contras
 
