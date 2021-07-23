@@ -37,11 +37,5 @@ Os hospitais como modelos empresariais adotam ferramentas que trazem um grande n
 
 ## Hospitais públicos
 
-Testes
-
-```text
-c:\del
-```
-
 
 
