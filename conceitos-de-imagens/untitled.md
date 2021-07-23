@@ -1,6 +1,16 @@
 # Imagens digitais
 
+**O que é uma imagem digital?**
 
+
+
+Imagem digital é uma representação em duas dimensões de uma imagem como um conjunto finito de valores digitais, chamados pixel.  Estas imagens são chamadas de duas dimensões 2D.
+
+ Pixel é o menor ponto que forma uma imagem digital, sendo que o conjunto de milhares de pixels formam a imagem inteira.
+
+![](../.gitbook/assets/imagem3.jpg)
+
+![](../.gitbook/assets/2021-07-23-12_03_11-projeto_livro_pacs_ris_2.6.docx-modo-de-compatibilidade-word.jpg)
 
 **Imagem na forma digital**
 
