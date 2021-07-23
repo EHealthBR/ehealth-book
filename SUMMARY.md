@@ -52,7 +52,7 @@
 ## Mercado de sistemas de saúde
 
 * [Mercado mundial](mercado-de-sistemas-de-saude/mercado-mundial.md)
-* [Mercado local](mercado-de-sistemas-de-saude/untitled.md)
+* [Mercado local](mercado-de-sistemas-de-saude/mercado-local.md)
 
 ## Equipamentos médicos
 
@@ -112,7 +112,7 @@
 
 ## Sistemas open source
 
-* [Discussão](sistemas-open-source/untitled.md)
+* [Discussão prós e contras](sistemas-open-source/untitled.md)
 * [Casos de uso](sistemas-open-source/untitled-3.md)
 * [Principais open source área da saúde](sistemas-open-source/untitled-2.md)
 * [Primeiros passos](sistemas-open-source/untitled-1.md)
