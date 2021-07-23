@@ -8,3 +8,5 @@ Quem será o dono deste livro ? Todos serão donos deste livro, mas vamos coloca
 
 Ele esta sendo escrito como se fosse um software usando o github e a plataforma gitbook, que ajudam muito na questão de versionamento e edições simultâneas,  de forma que as pessoas possam contribuir em um livro que vai estar sempre em constante evolução, um livro vivo.
 
+Sejam bem vindos!!!
+
