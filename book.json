@@ -17,7 +17,7 @@
         },
         "github": {
             "url": "https://github.com/EHealthBR/ehealth-book/"
-        },
+        }
     },
     "pdf": {
         "headerTemplate": "Download em PDF",
