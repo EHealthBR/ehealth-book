@@ -7,6 +7,7 @@ Esse é um projeto criado por brasileiros para reunir e compartilhar conheciment
 - Publicação: https://ehealthbr.github.io/ehealth-book/
 - Como contribuir: https://github.com/EHealthBR/ehealth-book/wiki/Como-contribuir
 - Discussões: https://github.com/EHealthBR/ehealth-book/discussions
+- Também estamos no WhatsApp: https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3
 
 ## Hospitais e clinicas particulares
 
