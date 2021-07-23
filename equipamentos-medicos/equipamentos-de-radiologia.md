@@ -18,9 +18,7 @@
 
 **Utilização**
 
-{% hint style="warning" %}
 **Equipamento emite radiação ionizante**
-{% endhint %}
 
 ## **Tomógrafos**
 
@@ -30,9 +28,7 @@
 
 **Utilização**
 
-{% hint style="warning" %}
 **Equipamento emite radiação ionizante**
-{% endhint %}
 
 ## **Ressonância Magnética**
 
@@ -42,9 +38,7 @@
 
 **Utilização**
 
-{% hint style="danger" %}
 **Equipamento gera forte campo magnético e gera risco para quem tem marca passo.**
-{% endhint %}
 
 ## **Mamógrafo**
 
@@ -54,9 +48,7 @@
 
 **Utilização**
 
-{% hint style="warning" %}
 **Equipamento emite radiação ionizante**
-{% endhint %}
 
 ## **Medicina nuclear**
 
@@ -66,9 +58,7 @@
 
 **Utilização**
 
-{% hint style="warning" %}
 **Equipamento emite radiação ionizante**
-{% endhint %}
 
 ## **PET-CT**
 
@@ -78,9 +68,7 @@
 
 **Utilização**
 
-{% hint style="warning" %}
 **Equipamento emite radiação ionizante**
-{% endhint %}
 
 ## **Densitometria Óssea**
 
@@ -90,7 +78,6 @@
 
 **Utilização**
 
-{% hint style="warning" %}
 **Equipamento emite radiação ionizante**
-{% endhint %}
+
 
