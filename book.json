@@ -1,0 +1,32 @@
+{
+    "title": "EHealth Book",
+    "description": "Base de conhecimento para reunir e compartilhar conhecimento sobre eHealth.",
+    "gitbook": "3.2.3",
+    "language": "pt_BR",
+    "plugins": [
+        "edit-link",
+        "theme-cornerstone",
+        "-fontsettings",
+        "github",
+        "anchors"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/EHealthBR/ehealth-book/tree/master",
+            "label": "Editar essa página"
+        },
+        "github": {
+            "url": "https://github.com/EHealthBR/ehealth-book/"
+        },
+    },
+    "pdf": {
+        "headerTemplate": "Download em PDF",
+        "footerTemplate": "https://github.com/EHealthBR/ehealth-book/"
+    },
+    "links": {
+        "sharing": {
+            "facebook": false,
+            "twitter": false
+        }
+    }
+}
