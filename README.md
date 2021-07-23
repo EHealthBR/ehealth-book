@@ -3,7 +3,7 @@
 ## Sobre esse repositório
 Esse é um projeto criado por brasileiros para reunir e compartilhar conhecimento sobre eHealth.
 
-### Links relevantes:
+### Links relevantes
 - Publicação: https://ehealthbr.github.io/ehealth-book/
 - Como contribuir: https://github.com/EHealthBR/ehealth-book/wiki/Como-contribuir
 - Discussões: https://github.com/EHealthBR/ehealth-book/discussions
