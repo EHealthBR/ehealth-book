@@ -78,6 +78,10 @@
 
 **Utilização**
 
+{% hint style="warning" %}
+**Equipamento emite radiação ionizante**
+{% endhint %}
+
 ## **Densitometria Óssea**
 
 **Principio físico de funcionamento**
@@ -85,4 +89,8 @@
 **Tipo de imagens geradas**
 
 **Utilização**
+
+{% hint style="warning" %}
+**Equipamento emite radiação ionizante**
+{% endhint %}
 
