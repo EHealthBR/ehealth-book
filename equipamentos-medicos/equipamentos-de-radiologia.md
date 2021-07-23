@@ -24,7 +24,7 @@
 
 ## **Tomógrafos**
 
-**principio físico de funcionamento**
+**Principio físico de funcionamento**
 
 **Tipo de imagens geradas**
 
