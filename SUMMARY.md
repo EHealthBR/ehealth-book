@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introdução](README.md)
+* [Teste de changes](teste-de-changes.md)
 * [Motivação para um livro open source](motivacao-deste-livro-open-source.md)
 
 ## história das tecnologias clinica e de imagens <a id="origens-das-tecnologias"></a>
