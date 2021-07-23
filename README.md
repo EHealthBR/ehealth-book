@@ -12,6 +12,7 @@ Esse é um projeto criado por brasileiros para reunir e compartilhar conheciment
 * [Também temos um grupo no WhatsApp](https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3)
 
 ### Status
+
 [![Publishing](https://github.com/EHealthBR/ehealth-book/actions/workflows/gitbook.yml/badge.svg)](https://github.com/EHealthBR/ehealth-book/actions/workflows/gitbook.yml)
 
 ## Hospitais e clinicas particulares
