@@ -6,7 +6,7 @@
 ## Capitulo 1 - Jornada de um paciente <a id="origens-das-tecnologias"></a>
 
 * [Jornada do paciente](origens-das-tecnologias/anos-80-s-ate-2000.md)
-* [Anos 2000 a 2021](origens-das-tecnologias/anos-2000-a-2021.md)
+* [Workflow no sistema](origens-das-tecnologias/anos-2000-a-2021.md)
 
 ## Capitulo 2 - Rede pública e privada de saúde <a id="rede-publica-e-privada-de-saude"></a>
 
@@ -18,8 +18,6 @@
 
 ## Capitulo 3 - Sistemas clínicos <a id="sistemas-clinicos"></a>
 
-* [Workflow ou](sistemas-clinicos/workflow-ou-jornada-do-paciente.md)
-* [Atores envolvidos](sistemas-clinicos/atores-envolvidos.md)
 * [EHR](sistemas-clinicos/ehr.md)
 * [HIS](sistemas-clinicos/his.md)
 * [RIS](sistemas-clinicos/ris.md)

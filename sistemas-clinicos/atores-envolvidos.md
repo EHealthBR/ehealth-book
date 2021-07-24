@@ -1,2 +1,0 @@
-# Atores envolvidos
-
