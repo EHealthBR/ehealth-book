@@ -1,2 +1,2 @@
-# Controle de temperatura por RFID
+# Controle de temperatura ambientes por RFID
 
