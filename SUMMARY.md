@@ -69,7 +69,7 @@
 * [FHIR](protocolos-medicos/fhir.md)
 * [Interoperabilidade](protocolos-medicos/interoperabilidade.md)
 
-## Capitulo10 - Bases de terminologia, classificação e ontologia <a id="bases-de-terminologia-classificacao-e-ontologia"></a>
+## Capitulo 10 - Bases de terminologia, classificação e ontologia <a id="bases-de-terminologia-classificacao-e-ontologia"></a>
 
 * [SNOMED CT](bases-de-terminologia-classificacao-e-ontologia/snomed-ct.md)
 * [LOINC](bases-de-terminologia-classificacao-e-ontologia/untitled.md)
