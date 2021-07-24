@@ -3,9 +3,9 @@
 * [Introdução](README.md)
 * [Motivação para um livro open source](motivacao-deste-livro-open-source.md)
 
-## Capitulo 1 - História das tecnologias clinica e de imagens <a id="origens-das-tecnologias"></a>
+## Capitulo 1 - Jornada de um paciente <a id="origens-das-tecnologias"></a>
 
-* [Anos 80´s até 2000](origens-das-tecnologias/anos-80-s-ate-2000.md)
+* [Jornada do paciente](origens-das-tecnologias/anos-80-s-ate-2000.md)
 * [Anos 2000 a 2021](origens-das-tecnologias/anos-2000-a-2021.md)
 
 ## Capitulo 2 - Rede pública e privada de saúde <a id="rede-publica-e-privada-de-saude"></a>
@@ -18,7 +18,7 @@
 
 ## Capitulo 3 - Sistemas clínicos <a id="sistemas-clinicos"></a>
 
-* [Workflow ou jornada do paciente](sistemas-clinicos/workflow-ou-jornada-do-paciente.md)
+* [Workflow ou](sistemas-clinicos/workflow-ou-jornada-do-paciente.md)
 * [Atores envolvidos](sistemas-clinicos/atores-envolvidos.md)
 * [EHR](sistemas-clinicos/ehr.md)
 * [HIS](sistemas-clinicos/his.md)

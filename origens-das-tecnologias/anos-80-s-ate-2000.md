@@ -1,2 +1,2 @@
-# Anos 80´s até 2000
+# Jornada do paciente
 

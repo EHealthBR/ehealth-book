@@ -1,2 +1,2 @@
-# Workflow ou jornada do paciente
+# Workflow ou
 
