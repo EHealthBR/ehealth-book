@@ -143,7 +143,7 @@
 
 ## Resumo de congressos
 
-* [Congressos relevantes 2021 / 2022](resumo-de-congressos/congressos-relevantes-2021-2022.md)
+* [Capitulo 21 - Congressos relevantes 2021 / 2022](resumo-de-congressos/congressos-relevantes-2021-2022.md)
 
 ## Bibliografia
 
