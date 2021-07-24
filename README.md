@@ -7,8 +7,8 @@ Esse é um projeto criado por brasileiros para reunir e compartilhar conheciment
 ### Links relevantes
 
 * [Publicação do livro](https://ehealthbr.github.io/ehealth-book/)
-* Como contribuir
-* Discussões
+* [Como contribuir / Andamento do projeto](https://github.com/EHealthBR/ehealth-book/issues)
+* [Discussões](https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3)
 * Licença [CC-BY-SA-4.0](https://ehealthbr.github.io/ehealth-book/LICENSE.txt)
 * [Também temos um grupo no WhatsApp](https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3)
 
