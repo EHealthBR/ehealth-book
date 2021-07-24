@@ -135,9 +135,10 @@
 * [Datalake de imagens DICOM](analytics-bi-e-datalake-com-dados/datalake-de-imagens-dicom.md)
 * [Bi de radiologia](analytics-bi-e-datalake-com-dados/bi-de-radiologia.md)
 
-## Tendências e inovação
+## Capitulo 20 - Tendências e inovação <a id="tendencias-e-inovacao"></a>
 
 * [Controle de ativos por RFID](tendencias-e-inovacao/controle-de-ativos-por-rfid.md)
+* [Controle de temperatura por RFID](tendencias-e-inovacao/controle-de-temperatura-por-rfid.md)
 * [Tecnologias futuras](tendencias-e-inovacao/tecnologias-futuras.md)
 
 ## Resumo de congressos
