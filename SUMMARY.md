@@ -4,12 +4,12 @@
 * [Teste de changes](teste-de-changes.md)
 * [Motivação para um livro open source](motivacao-deste-livro-open-source.md)
 
-## história das tecnologias clinica e de imagens <a id="origens-das-tecnologias"></a>
+## Capitulo 1 - História das tecnologias clinica e de imagens <a id="origens-das-tecnologias"></a>
 
 * [Anos 80´s até 2000](origens-das-tecnologias/anos-80-s-ate-2000.md)
 * [Anos 2000 a 2021](origens-das-tecnologias/anos-2000-a-2021.md)
 
-## Rede pública e privada de saúde
+## Capitulo 2 - Rede pública e privada de saúde <a id="rede-publica-e-privada-de-saude"></a>
 
 * [Redes privadas](rede-publica-e-privada-de-saude/redes-privadas.md)
 * [Conceitos de atenção primária e secundária](rede-publica-e-privada-de-saude/conceitos-de-atencao-primaria-secundaria-etc.md)
@@ -17,7 +17,7 @@
 * [Redes estaduais](rede-publica-e-privada-de-saude/redes-estaduais.md)
 * [Rede SUS](rede-publica-e-privada-de-saude/untitled.md)
 
-## Sistemas clínicos
+## Capitulo 3 - Sistemas clínicos <a id="sistemas-clinicos"></a>
 
 * [Workflow ou jornada do paciente](sistemas-clinicos/workflow-ou-jornada-do-paciente.md)
 * [Atores envolvidos](sistemas-clinicos/atores-envolvidos.md)
@@ -27,7 +27,7 @@
 * [CIS](sistemas-clinicos/untitled.md)
 * [LIS](sistemas-clinicos/lis.md)
 
-## Sistemas de imagens
+## Capitulo 4 - Sistemas de imagens <a id="sistemas-de-imagens"></a>
 
 * [Atores envolvidos](sistemas-de-imagens/atores-envolvidos.md)
 * [PACS](sistemas-de-imagens/untitled.md)
@@ -35,7 +35,7 @@
 * [Sistemas de reconstrução pós processamento](sistemas-de-imagens/sistemas-de-reconstrucao-pos-processamento.md)
 * [Regulamentações](sistemas-de-imagens/regulamentacoes.md)
 
-## Documentação e entrega de resultados de exames
+## Capitulo 5 - Documentação e entrega de resultados de exames <a id="documentacao-e-entrega-de-resultados-de-exames"></a>
 
 * [Filmes revelados](documentacao-e-entrega-de-resultados-de-exames/filmes-revelados.md)
 * [Filmes impressos](documentacao-e-entrega-de-resultados-de-exames/filmes-impressos.md)
@@ -43,19 +43,19 @@
 * [Sites de resultados / APP´s](documentacao-e-entrega-de-resultados-de-exames/meios-fisicos-e-digitais.md)
 * [Impressão em papel](documentacao-e-entrega-de-resultados-de-exames/impressao-em-papel.md)
 
-## Conceitos de imagens
+## Capitulo 6 - Conceitos de imagens <a id="conceitos-de-imagens"></a>
 
 * [Imagens digitais](conceitos-de-imagens/untitled.md)
 * [Imagens médicas](conceitos-de-imagens/imagens-medicas.md)
 * [Images Dicom](conceitos-de-imagens/images-dicom.md)
 * [Imagens impressão 3D](conceitos-de-imagens/imagens-impressao-3d.md)
 
-## Mercado de sistemas de saúde
+## Capitulo 7 - Mercado de sistemas de saúde <a id="mercado-de-sistemas-de-saude"></a>
 
 * [Mercado mundial](mercado-de-sistemas-de-saude/mercado-mundial.md)
 * [Mercado local](mercado-de-sistemas-de-saude/mercado-local.md)
 
-## Equipamentos médicos
+## Capitulo 8 - Equipamentos médicos <a id="equipamentos-medicos"></a>
 
 * [Equipamentos de radiologia](equipamentos-medicos/equipamentos-de-radiologia.md)
 * [Equipamentos fora da radiologia](equipamentos-medicos/untitled.md)
@@ -63,21 +63,21 @@
 * [Engenharia clinica e físicos](equipamentos-medicos/engenharia-clinica-e-fisicos.md)
 * [Regulamentações](equipamentos-medicos/regulamentacoes.md)
 
-## Protocolos médicos
+## Capitulo 9 - Protocolos médicos e Interoperabilidade <a id="protocolos-medicos"></a>
 
 * [DICOM](protocolos-medicos/dicom.md)
 * [HL7](protocolos-medicos/hl7.md)
 * [FHIR](protocolos-medicos/fhir.md)
 * [Interoperabilidade](protocolos-medicos/interoperabilidade.md)
 
-## Bases de terminologia, classificação e ontologia
+## Capitulo10 - Bases de terminologia, classificação e ontologia <a id="bases-de-terminologia-classificacao-e-ontologia"></a>
 
 * [SNOMED CT](bases-de-terminologia-classificacao-e-ontologia/snomed-ct.md)
 * [LOINC](bases-de-terminologia-classificacao-e-ontologia/untitled.md)
 * [CID](bases-de-terminologia-classificacao-e-ontologia/cid.md)
 * [RADLEX](bases-de-terminologia-classificacao-e-ontologia/untitled-1.md)
 
-## Segurança da Informação
+## Capitulo 11 - Segurança da Informação <a id="seguranca-da-informacao"></a>
 
 * [HIPAA](seguranca-da-informacao/hipaa.md)
 * [LGPD](seguranca-da-informacao/lgpd.md)
@@ -85,19 +85,19 @@
 * [Padrões de anonimização](seguranca-da-informacao/padroes-de-anonimizacao.md)
 * [Codificando para a anonimização](seguranca-da-informacao/open-source-anonimizacao.md)
 
-## Segurança do paciente
+## Capitulo 12 - Segurança do paciente <a id="seguranca-do-paciente"></a>
 
 * [Protocolos de segurança](seguranca-do-paciente/protocolos-de-seguranca.md)
 * [Dose de radiação](seguranca-do-paciente/dose-de-radiacao.md)
 * [Regulamentações](seguranca-do-paciente/regulamentacoes.md)
 
-## Telemedicina e Teleradiologia
+## Capitulo 13 - Telemedicina <a id="telemedicina"></a>
 
-* [Conceitos de telemedicina](telemedicina-e-teleradiologia/conceitos-de-telemedicina.md)
-* [Conceitos de teleradiologia](telemedicina-e-teleradiologia/conceitos-de-teleradiologia.md)
-* [Regulamentações](telemedicina-e-teleradiologia/regulamentacoes.md)
+* [Conceitos de telemedicina](telemedicina/conceitos-de-telemedicina.md)
+* [Conceitos de teleradiologia](telemedicina/conceitos-de-teleradiologia.md)
+* [Regulamentações](telemedicina/regulamentacoes.md)
 
-## Ambientes produtivos de TI <a id="projetos-e-producao"></a>
+## Capitulo 14 - Ambientes produtivos de Imagens <a id="projetos-e-producao"></a>
 
 * [Monitoração ativa e passiva](projetos-e-producao/untitled.md)
 * [Continuidade de operação \(Resiliência\)](projetos-e-producao/continuidade-de-operacao.md)
