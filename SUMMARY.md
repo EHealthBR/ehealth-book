@@ -97,6 +97,10 @@
 * [Conceitos de teleradiologia](telemedicina/conceitos-de-teleradiologia.md)
 * [Regulamentações](telemedicina/regulamentacoes.md)
 
+## Capitulo 15 - Teleradiologia
+
+* [Conceitos de teleradiologia](capitulo-15-teleradiologia/conceitos-de-teleradiologia.md)
+
 ## Capitulo 14 - Ambientes produtivos de Imagens <a id="projetos-e-producao"></a>
 
 * [Monitoração ativa e passiva](projetos-e-producao/untitled.md)
