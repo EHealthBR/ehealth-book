@@ -2,7 +2,7 @@
 
 ## Sobre esse repositório
 
-Esse é um projeto criado por brasileiros para reunir e compartilhar conhecimento sobre eHealth.
+Base de conhecimento criado e mantido por um grupo de profissionais engajados em compartilhar informações sobre tecnologia para saúde em língua portuguesa.
 
 ### Links relevantes
 
