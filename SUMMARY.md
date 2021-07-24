@@ -128,7 +128,7 @@
 * [Principais open source área da saúde](sistemas-open-source/untitled-2.md)
 * [Primeiros passos](sistemas-open-source/untitled-1.md)
 
-## Capitulo 20 - Analytics, BI e datalake com dados <a id="analytics-bi-e-datalake-com-dados"></a>
+## Capitulo 20 - Analytics, BI e datalake <a id="analytics-bi-e-datalake-com-dados"></a>
 
 * [Datalake de imagens DICOM](analytics-bi-e-datalake-com-dados/datalake-de-imagens-dicom.md)
 * [Bi de radiologia](analytics-bi-e-datalake-com-dados/bi-de-radiologia.md)
