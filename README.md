@@ -3,6 +3,7 @@
 ## Sobre esse repositório
 
 Base de conhecimento criado e mantido por um grupo de profissionais engajados em compartilhar informações sobre tecnologia para saúde em língua portuguesa.
+
 A estrutura dessa base de conhecimento (ou livro) está organizado em capítulos desde o nível mais básico até o nível mais aprofundado de cada tema.
 
 
