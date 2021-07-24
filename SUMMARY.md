@@ -3,7 +3,7 @@
 * [Introdução](README.md)
 * [Motivação para um livro open source](motivacao-deste-livro-open-source.md)
 
-## Capitulo 1 - Jornada de um paciente <a id="origens-das-tecnologias"></a>
+## Capitulo 1 - Jornada de um paciente em um sistema de saúde <a id="origens-das-tecnologias"></a>
 
 * [Jornada do paciente](origens-das-tecnologias/anos-80-s-ate-2000.md)
 * [Desfecho](origens-das-tecnologias/desfecho.md)
