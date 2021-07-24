@@ -6,6 +6,7 @@
 ## Capitulo 1 - Jornada de um paciente <a id="origens-das-tecnologias"></a>
 
 * [Jornada do paciente](origens-das-tecnologias/anos-80-s-ate-2000.md)
+* [Desfecho](origens-das-tecnologias/desfecho.md)
 * [Workflow no sistema](origens-das-tecnologias/anos-2000-a-2021.md)
 
 ## Capitulo 2 - Rede pública e privada de saúde <a id="rede-publica-e-privada-de-saude"></a>
