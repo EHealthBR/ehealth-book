@@ -15,10 +15,6 @@ A estrutura dessa base de conhecimento (ou livro) está organizado em capítulos
 * Licença [CC-BY-SA-4.0](https://ehealthbr.github.io/ehealth-book/LICENSE.txt)
 * [Também temos um grupo no WhatsApp](https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3)
 
-### **Sobre o livro**
-
-O mesmo esta organizado sempre que possível em cada tema/capitulo, com um nível básico e depois um nível mais avançado/aprofundado \(_deep_\) sobre o tema em questão.
-
 ## Hospitais e clinicas particulares
 
 Os hospitais, clínicas e centros de diagnósticos tem hoje uma administração profissional, são conduzidas como empresas normais, que como qualquer outra primam pela qualidade, redução de custos, mais agilidade no atendimento aos clientes, diferenciais em relação aos seus concorrentes, melhoria dos seus produtos etc.
