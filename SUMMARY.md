@@ -130,6 +130,7 @@
 
 ## Capitulo 20 - Analytics, BI e datalake <a id="analytics-bi-e-datalake-com-dados"></a>
 
+* [Datalake dados saúde](analytics-bi-e-datalake-com-dados/datalake-dados-saude.md)
 * [Datalake de imagens DICOM](analytics-bi-e-datalake-com-dados/datalake-de-imagens-dicom.md)
 * [Bi de radiologia](analytics-bi-e-datalake-com-dados/bi-de-radiologia.md)
 
