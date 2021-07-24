@@ -95,46 +95,46 @@
 * [Conceitos de telemedicina](telemedicina/conceitos-de-telemedicina.md)
 * [Regulamentações](telemedicina/regulamentacoes.md)
 
-## Capitulo 15 - Teleradiologia
+## Capitulo 14 - Teleradiologia <a id="capitulo-15-teleradiologia"></a>
 
 * [Conceitos de teleradiologia](capitulo-15-teleradiologia/conceitos-de-teleradiologia.md)
 * [Regulamentações](capitulo-15-teleradiologia/regulamentacoes.md)
 
-## Capitulo 16 - Ambientes produtivos de Imagens <a id="projetos-e-producao"></a>
+## Capitulo 15 - Ambientes produtivos de Imagens <a id="projetos-e-producao"></a>
 
 * [Monitoração ativa e passiva](projetos-e-producao/untitled.md)
 * [Continuidade de operação \(Resiliência\)](projetos-e-producao/continuidade-de-operacao.md)
 * [Desenhos de arquitetura de TI](projetos-e-producao/desenhos-de-arquitetura.md)
 * [Contingências](projetos-e-producao/contingencias.md)
 
-## Capitulo 17 - P&D <a id="ambientes-de-pesquisa"></a>
+## Capitulo 16 - P&D <a id="ambientes-de-pesquisa"></a>
 
 * [Inteligência artificial](ambientes-de-pesquisa/inteligencia-artificial.md)
 * [Arquiteturas básicas](ambientes-de-pesquisa/arquiteturas-basicas.md)
 
-## Capitulo 18 - Ecossistemas de startup de saúde <a id="startups-de-imagens"></a>
+## Capitulo 17 - Ecossistemas de startup de saúde <a id="startups-de-imagens"></a>
 
 * [Startup de imagens médicas](startups-de-imagens/startup-de-imagens-medicas.md)
 * [Startup de sistemas de saúde](startups-de-imagens/startup-de-sistemas-de-saude.md)
 
-## Capitulo 19 - Infraestrutura <a id="infraestrutura"></a>
+## Capitulo 18 - Infraestrutura <a id="infraestrutura"></a>
 
 * [On premises](infraestrutura/on-premises.md)
 * [Serviços de imagens na nuvem](infraestrutura/servicos-de-imagens-na-nuvem.md)
 
-## Capitulo 20 - Sistemas open source <a id="sistemas-open-source"></a>
+## Capitulo 19 - Sistemas open source <a id="sistemas-open-source"></a>
 
 * [Discussão: prós e contras](sistemas-open-source/untitled.md)
 * [Casos de uso](sistemas-open-source/untitled-3.md)
 * [Principais open source área da saúde](sistemas-open-source/untitled-2.md)
 * [Primeiros passos](sistemas-open-source/untitled-1.md)
 
-## Capitulo 19 - Analytics, BI e datalake com dados <a id="analytics-bi-e-datalake-com-dados"></a>
+## Capitulo 20 - Analytics, BI e datalake com dados <a id="analytics-bi-e-datalake-com-dados"></a>
 
 * [Datalake de imagens DICOM](analytics-bi-e-datalake-com-dados/datalake-de-imagens-dicom.md)
 * [Bi de radiologia](analytics-bi-e-datalake-com-dados/bi-de-radiologia.md)
 
-## Capitulo 20 - Tendências e inovação <a id="tendencias-e-inovacao"></a>
+## Capitulo 21 - Tendências e inovação <a id="tendencias-e-inovacao"></a>
 
 * [Controle de ativos por RFID](tendencias-e-inovacao/controle-de-ativos-por-rfid.md)
 * [Controle de temperatura ambientes por RFID](tendencias-e-inovacao/controle-de-temperatura-por-rfid.md)
@@ -142,7 +142,7 @@
 
 ## Resumo de congressos
 
-* [Capitulo 21 - Congressos relevantes 2021 / 2022](resumo-de-congressos/congressos-relevantes-2021-2022.md)
+* [Capitulo 22 - Congressos relevantes 2021 / 2022](resumo-de-congressos/congressos-relevantes-2021-2022.md)
 
 ## Bibliografia
 
