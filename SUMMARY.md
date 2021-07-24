@@ -94,12 +94,12 @@
 ## Capitulo 13 - Telemedicina <a id="telemedicina"></a>
 
 * [Conceitos de telemedicina](telemedicina/conceitos-de-telemedicina.md)
-* [Conceitos de teleradiologia](telemedicina/conceitos-de-teleradiologia.md)
 * [Regulamentações](telemedicina/regulamentacoes.md)
 
 ## Capitulo 15 - Teleradiologia
 
 * [Conceitos de teleradiologia](capitulo-15-teleradiologia/conceitos-de-teleradiologia.md)
+* [Regulamentações](capitulo-15-teleradiologia/regulamentacoes.md)
 
 ## Capitulo 14 - Ambientes produtivos de Imagens <a id="projetos-e-producao"></a>
 
