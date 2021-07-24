@@ -80,4 +80,3 @@
 
 **Equipamento emite radiação ionizante**
 
-
