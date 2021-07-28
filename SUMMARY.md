@@ -40,6 +40,7 @@
 * [cd´s - Robôs de gravação](documentacao-e-entrega-de-resultados-de-exames/cd-s-robos-de-gravacao.md)
 * [Sites de resultados / APP´s](documentacao-e-entrega-de-resultados-de-exames/meios-fisicos-e-digitais.md)
 * [Impressão em papel](documentacao-e-entrega-de-resultados-de-exames/impressao-em-papel.md)
+* [SAME](documentacao-e-entrega-de-resultados-de-exames/same.md)
 
 ## Capitulo 6 - Conceitos de imagens <a id="conceitos-de-imagens"></a>
 
