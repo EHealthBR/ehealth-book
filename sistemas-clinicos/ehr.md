@@ -38,5 +38,7 @@ With fully functional EHRs, all members of the team have ready access to the lat
 
 So, yes, the difference between “electronic medical records” and “electronic health records” is just one word. But in that word there is a world of difference.
 
+[https://www.healthit.gov/faq/what-electronic-health-record-ehr](https://www.healthit.gov/faq/what-electronic-health-record-ehr)
+
 
 
