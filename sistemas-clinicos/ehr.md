@@ -1,6 +1,6 @@
 # EHR
 
-## What is an electronic health record \(EHR\)?
+### What is an electronic health record \(EHR\)?
 
 An [electronic health record](https://www.healthit.gov/providers-professionals/learn-ehr-basics) \(EHR\) is a digital version of a patient’s paper chart. EHRs are real-time, patient-centered records that make information available instantly and securely to authorized users. While an EHR does contain the medical and treatment histories of patients, an EHR system is built to go beyond standard clinical data collected in a provider’s office and can be inclusive of a broader view of a patient’s care. EHRs are a vital part of health IT and can:
 
@@ -10,19 +10,9 @@ An [electronic health record](https://www.healthit.gov/providers-professionals/l
 
 One of the key features of an EHR is that health information can be created and managed by authorized providers in a digital format capable of being shared with other providers across more than one health care organization. EHRs are built to share information with other health care providers and organizations – such as laboratories, specialists, medical imaging facilities, pharmacies, emergency facilities, and school and workplace clinics – so they contain information from _all clinicians involved in a patient’s care_.
 
-* [Benefits of Electronic Health Records](https://www.healthit.gov/providers-professionals/benefits-electronic-health-records-ehrs)
 
 
-
-* [What are the advantages of electronic health records?](https://www.healthit.gov/faq/what-are-advantages-electronic-health-records)
-
-
-
-* [What information does an electronic health record \(EHR\) contain?](https://www.healthit.gov/faq/what-information-does-electronic-health-record-ehr-contain)
-
-
-
-* [EMR vs EHR – What is the Difference?](http://healthit.gov/buzz-blog/electronic-health-and-medical-records/emr-vs-ehr-difference/)
+### **EMR vs EHR – What is the Difference?**
 
 **Electronic medical records \(EMRs\)** are a digital version of the paper charts in the clinician’s office. An EMR contains the medical and treatment history of the patients in one practice. EMRs have advantages over paper records. For example, EMRs allow clinicians to:
 
