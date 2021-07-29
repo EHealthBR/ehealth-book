@@ -24,3 +24,5 @@ STAGE 1: Ancillaries \(Laboratory, Pharmacy and Radiology/Cardiology Information
 
 STAGE 0: All Three Ancillaries Not Installed
 
+[https://www.himss.org/what-we-do-solutions/digital-health-transformation/maturity-models/electronic-medical-record-adoption-model-emram](https://www.himss.org/what-we-do-solutions/digital-health-transformation/maturity-models/electronic-medical-record-adoption-model-emram)
+
