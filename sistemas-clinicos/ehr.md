@@ -10,8 +10,6 @@ An [electronic health record](https://www.healthit.gov/providers-professionals/l
 
 One of the key features of an EHR is that health information can be created and managed by authorized providers in a digital format capable of being shared with other providers across more than one health care organization. EHRs are built to share information with other health care providers and organizations – such as laboratories, specialists, medical imaging facilities, pharmacies, emergency facilities, and school and workplace clinics – so they contain information from _all clinicians involved in a patient’s care_.
 
-
-
 ### **EMR vs EHR – What is the Difference?**
 
 **Electronic medical records \(EMRs\)** are a digital version of the paper charts in the clinician’s office. An EMR contains the medical and treatment history of the patients in one practice. EMRs have advantages over paper records. For example, EMRs allow clinicians to:
