@@ -21,8 +21,8 @@
 
 * [EHR](sistemas-clinicos/ehr.md)
 * [HIMSS Electronic Medical Record Adoption Model \(EMRAM\)](sistemas-clinicos/his.md)
-* [RIS](sistemas-clinicos/ris.md)
 * [HIE](sistemas-clinicos/hie.md)
+* [RIS](sistemas-clinicos/ris.md)
 * [CIS](sistemas-clinicos/untitled.md)
 * [LIS](sistemas-clinicos/lis.md)
 
