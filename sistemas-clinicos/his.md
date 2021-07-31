@@ -1,4 +1,4 @@
-# HIMSS Electronic Medical Record Adoption Model \(EMRAM\)
+# HIMSS Electronic Medical Record Adoption Model
 
 ### Electronic Medical Record Adoption Model \(EMRAM\)
 

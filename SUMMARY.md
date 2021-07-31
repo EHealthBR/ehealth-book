@@ -20,7 +20,7 @@
 ## Capitulo 3 - Sistemas clínicos <a id="sistemas-clinicos"></a>
 
 * [EHR](sistemas-clinicos/ehr.md)
-* [HIMSS Electronic Medical Record Adoption Model \(EMRAM\)](sistemas-clinicos/his.md)
+* [HIMSS Electronic Medical Record Adoption Model](sistemas-clinicos/his.md)
 * [HIE](sistemas-clinicos/hie.md)
 * [RIS](sistemas-clinicos/ris.md)
 * [CIS](sistemas-clinicos/untitled.md)
