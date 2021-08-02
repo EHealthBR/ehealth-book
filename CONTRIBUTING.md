@@ -12,7 +12,7 @@ Abaixo temos uma lista dos capítulos que foram propostos pela comunidade e o an
 
 Estamos abertos para sugestões de novos tópicos, re-organização dos capítulos e colaboradores nos capítulos já planejados.
 
-Entre em contato conosco comentando aqui nessa issue ou pelo nosso [https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3](grupo no WhatsApp).
+Entre em contato conosco comentando aqui nessa issue ou pelo nosso [grupo no WhatsApp](https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3).
 
 # Como contribuir
 O livro está sendo escrito em Markdown e controlado aqui nesse GitHub.
