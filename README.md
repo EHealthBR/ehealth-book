@@ -12,5 +12,6 @@ A estrutura dessa base de conhecimento \(ou livro\) está organizado em capítul
 * [Como contribuir / Andamento do projeto](https://github.com/EHealthBR/ehealth-book/issues)
 * [Discussões](https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3)
 * Licença [CC-BY-SA-4.0](https://ehealthbr.github.io/ehealth-book/LICENSE.txt)
+* [Código de conduta](https://github.com/EHealthBR/ehealth-book/blob/master/CODE_OF_CONDUCT.md)
 * [Também temos um grupo no WhatsApp](https://chat.whatsapp.com/IveedBybMzm3mbpR3Gfbc3)
 
