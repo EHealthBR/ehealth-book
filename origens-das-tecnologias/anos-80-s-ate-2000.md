@@ -1,4 +1,8 @@
 # Jornada do paciente
+```
+NOTA: a sintaxe "{% api-*" não é compatível.
+
+
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
@@ -60,3 +64,4 @@ Could not find a cake matching this query.
 
 
 
+```
