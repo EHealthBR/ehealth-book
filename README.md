@@ -6,6 +6,14 @@ Base de conhecimento criado e mantido por um grupo de profissionais engajados em
 
 A estrutura dessa base de conhecimento \(ou livro\) está organizado em capítulos desde o nível mais básico até o nível mais aprofundado de cada tema.
 
+
+
+## Com _gitbook_ eu **consigo editar um texto.**  
+
+\*\*\*\*
+
+![e colocar uma imagem :\)](.gitbook/assets/imagem2.png)
+
 ### Links relevantes
 
 * [Publicação do livro](https://ehealthbr.github.io/ehealth-book/)
