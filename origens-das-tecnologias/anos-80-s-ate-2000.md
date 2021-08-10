@@ -1,5 +1,6 @@
 # Jornada do paciente
-```
+
+```text
 NOTA: a sintaxe "{% api-*" não é compatível.
 
 
@@ -43,25 +44,25 @@ Whether the cake should be gluten-free or not.
 {% api-method-response-example-description %}
 Cake successfully retrieved.
 {% endapi-method-response-example-description %}
+```
 
-```
-{    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
-```
+{ "name": "Cake's name", "recipe": "Cake's recipe name", "cake": "Binary cake"}
+
+```text
 {% endapi-method-response-example %}
 
 {% api-method-response-example httpCode=404 %}
 {% api-method-response-example-description %}
 Could not find a cake matching this query.
 {% endapi-method-response-example-description %}
+```
 
-```
-{    "message": "Ain't no cake like that."}
-```
+{ "message": "Ain't no cake like that."}
+
+```text
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
-
 ```
+
