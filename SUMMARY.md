@@ -141,7 +141,7 @@
 ## Capitulo 21 - Tendências e inovação <a id="tendencias-e-inovacao"></a>
 
 * [Saúde 4.0](tendencias-e-inovacao/untitled.md)
-* [Untitled](tendencias-e-inovacao/reconhecimento-facial-na-area-da-saude.md)
+* [Reconhecimento facial](tendencias-e-inovacao/reconhecimento-facial-na-area-da-saude.md)
 * [Controle de ativos por RFID](tendencias-e-inovacao/controle-de-ativos-por-rfid.md)
 * [Controle de temperatura ambientes por RFID](tendencias-e-inovacao/controle-de-temperatura-por-rfid.md)
 * [Tecnologias futuras](tendencias-e-inovacao/tecnologias-futuras.md)

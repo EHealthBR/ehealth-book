@@ -4,7 +4,7 @@ description: >-
   texto
 ---
 
-# Untitled
+# Reconhecimento facial
 
 A utilização de reconhecimento facial como instrumento de "Big Data Analytics" é uma fronteira tecnológica recente no mercado em geral, e sua aplicação em Saúde é ainda mais nova.
 
